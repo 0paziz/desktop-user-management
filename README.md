@@ -30,4 +30,4 @@ The **Desktop User Management App** is a React-based application designed to man
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/desktop-user-management.git
+git clone https://github.com/0paziz/desktop-user-management.git
