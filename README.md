@@ -1,7 +1,7 @@
 # Desktop User Management App
 
 ## Overview
-The **Desktop User Management App** is a React-based application designed to manage users efficiently. It allows you to **add, edit, and view users** with essential information such as name, email, and status. User data is persisted using **localStorage**, so it remains saved even after closing the app.
+The **Desktop User Management Page** is a React-based application designed to manage users efficiently. It allows you to **add, edit, and view users** with essential information such as name, email, and status. User data is persisted using **localStorage**, so it remains saved even after closing the app.
 
 ---
 
